@@ -1,0 +1,2 @@
+# AlgoliaInstantSearchCreateURLRefinementLists
+Created with CodeSandbox
